@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _087Nov18
 {
-    class Function
+    class Calculation
     {
         public static int addnumber(int num1, int num2)
         {

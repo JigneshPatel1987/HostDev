@@ -52,12 +52,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Function.cs" />
-    <Compile Include="HomePage.cs" />
-    <Compile Include="LoginPage.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Framework\Calculation.cs" />
+    <Compile Include="Pages\HomePage.cs" />
+    <Compile Include="Pages\LoginPage.cs" />
+    <Compile Include="Tests\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TimeandMaterialPage.cs" />
+    <Compile Include="Pages\TimeandMaterialPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
